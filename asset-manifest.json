@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/maryhalv/allison-personal/static/css/main.5f361e03.chunk.css",
+    "main.js": "/maryhalv/allison-personal/static/js/main.85dd79f1.chunk.js",
+    "main.js.map": "/maryhalv/allison-personal/static/js/main.85dd79f1.chunk.js.map",
+    "runtime-main.js": "/maryhalv/allison-personal/static/js/runtime-main.a958fb76.js",
+    "runtime-main.js.map": "/maryhalv/allison-personal/static/js/runtime-main.a958fb76.js.map",
+    "static/js/2.d3b20199.chunk.js": "/maryhalv/allison-personal/static/js/2.d3b20199.chunk.js",
+    "static/js/2.d3b20199.chunk.js.map": "/maryhalv/allison-personal/static/js/2.d3b20199.chunk.js.map",
+    "index.html": "/maryhalv/allison-personal/index.html",
+    "precache-manifest.a621e99c826190df0d6189726820f93b.js": "/maryhalv/allison-personal/precache-manifest.a621e99c826190df0d6189726820f93b.js",
+    "service-worker.js": "/maryhalv/allison-personal/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/maryhalv/allison-personal/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d3b20199.chunk.js.LICENSE.txt": "/maryhalv/allison-personal/static/js/2.d3b20199.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/maryhalv/allison-personal/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a958fb76.js",
+    "static/js/2.d3b20199.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.85dd79f1.chunk.js"
+  ]
+}
