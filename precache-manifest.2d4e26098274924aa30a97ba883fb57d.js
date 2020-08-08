@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e193759e1729da2f089c6fd9737fe09a",
+    "revision": "23eb7700fbbaba20d7bc0c9dabb0347e",
     "url": "/allison-personal/index.html"
   },
   {
-    "revision": "821a5e9c5e47801c91ce",
-    "url": "/allison-personal/static/css/main.fea21041.chunk.css"
+    "revision": "6c2598f1f16ff492b8e6",
+    "url": "/allison-personal/static/css/main.88867cd9.chunk.css"
   },
   {
     "revision": "689707409de4adc86ead",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/allison-personal/static/js/2.21d7d36b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "821a5e9c5e47801c91ce",
+    "revision": "6c2598f1f16ff492b8e6",
     "url": "/allison-personal/static/js/main.6f92fad2.chunk.js"
   },
   {

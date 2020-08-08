@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/allison-personal/static/css/main.fea21041.chunk.css",
+    "main.css": "/allison-personal/static/css/main.88867cd9.chunk.css",
     "main.js": "/allison-personal/static/js/main.6f92fad2.chunk.js",
     "main.js.map": "/allison-personal/static/js/main.6f92fad2.chunk.js.map",
     "runtime-main.js": "/allison-personal/static/js/runtime-main.6f2a6a68.js",
@@ -8,16 +8,16 @@
     "static/js/2.21d7d36b.chunk.js": "/allison-personal/static/js/2.21d7d36b.chunk.js",
     "static/js/2.21d7d36b.chunk.js.map": "/allison-personal/static/js/2.21d7d36b.chunk.js.map",
     "index.html": "/allison-personal/index.html",
-    "precache-manifest.0b1e3d4dfc7aba401a57ba47d8980c4b.js": "/allison-personal/precache-manifest.0b1e3d4dfc7aba401a57ba47d8980c4b.js",
+    "precache-manifest.2d4e26098274924aa30a97ba883fb57d.js": "/allison-personal/precache-manifest.2d4e26098274924aa30a97ba883fb57d.js",
     "service-worker.js": "/allison-personal/service-worker.js",
-    "static/css/main.fea21041.chunk.css.map": "/allison-personal/static/css/main.fea21041.chunk.css.map",
+    "static/css/main.88867cd9.chunk.css.map": "/allison-personal/static/css/main.88867cd9.chunk.css.map",
     "static/js/2.21d7d36b.chunk.js.LICENSE.txt": "/allison-personal/static/js/2.21d7d36b.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/allison-personal/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6f2a6a68.js",
     "static/js/2.21d7d36b.chunk.js",
-    "static/css/main.fea21041.chunk.css",
+    "static/css/main.88867cd9.chunk.css",
     "static/js/main.6f92fad2.chunk.js"
   ]
 }
