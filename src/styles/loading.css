@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+#d-loading{
+ font-size: 2.5rem;
+ color: black;
+ display: flex;
+ flex-direction: column;
+ background-color: #A9A9A9;
+ width: 79vw;
+ margin: 10rem 10vw 0 10vw;
+ padding: 5rem 0 5rem 0;
+ text-align: left;
+ font-family: 'Crimson Text', serif;
+ border-left: solid 0.7rem black;
+}
+
+#loading-name{
+ padding-left: 1rem;
+}
+
+#loading-title{
+ text-align: center;
+ font-size: 1.5rem;
+ text-align: left;
+ padding-left: 1rem;
+}

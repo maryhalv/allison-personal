@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+#menu{
+    width: 100vw;
+    height: 2.7rem;
+    background-color: #EFEFEF;
+    display: flex;
+    flex-direction: column;
+    z-index: 200;
+    position: fixed;
+    border-bottom: solid 1px black;
+}
+
+#icon-holder{
+width: 100vw;
+}
+
+#b-menu{
+    background-image: url('../icons/icons8-menu-100.png');
+    width: 1rem;
+}
+
+#d-menu-icon{
+   width: 2.5rem;
+}
+
+#img-menu-icon{
+  display: black;
+  height: auto;
+  width: 100%;
+}
+
+#items{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    text-align: center;
+    background-color: #EFEFEF;
+    padding-top: 1rem;
+}
+
+#menu-item{
+    text-align: left;
+    background-color: #EFEFEF;
+    height: 2rem;
+    margin-top: 0;
+    padding-left: 1rem;
+    font-family: 'Crimson Text', serif;
+    font-size: 1.2rem;
+}
+
+#menu-item-last {
+    border-bottom: solid 1px black;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    text-align: left;
+    font-family: 'Crimson Text', serif;
+    font-size: 1.2rem;
+}
