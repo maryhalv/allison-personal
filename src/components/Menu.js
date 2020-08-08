@@ -50,6 +50,7 @@ export function Menu(props){
         <div id="d-menu-icon" onClick={animateMenu}>
              <img id="img-menu-icon"src={menu_icon}/>
         </div>
+        Dr. Allison Kretlow
     </div>
      <div id="items" onClick={handleItemOneClick}>
       <div id="menu-item">

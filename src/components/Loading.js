@@ -5,10 +5,10 @@ export function Loading(props){
     return(
     <div id="d-loading">
     <div id="loading-name">
-    Allison Kretlow
+    Dr. Allison Kretlow
     </div>
     <div id="loading-title">
-    Professional Title
+    Doctor of Philosophy in Special Education
     </div>
     </div>
     );
